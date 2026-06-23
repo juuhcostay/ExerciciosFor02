@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ex1/ex1.csproj" Id="f177abf0-1565-494b-834e-4f8650539d57" />
+  <Project Path="ex10/ex10.csproj" Id="96be8f84-5e15-4501-a155-693091c350d1" />
+  <Project Path="ex2/ex2.csproj" Id="7999a6c5-eebb-4c61-ba3c-7c2431aad021" />
+  <Project Path="ex3/ex3.csproj" Id="48bcd873-9d7b-43c0-97d8-8613e0eeae84" />
+  <Project Path="ex4/ex4.csproj" Id="2e9bfdcc-a1f9-41ca-bb3a-acc019fb36ab" />
+  <Project Path="ex5/ex5.csproj" Id="ac2aef63-40e9-4b2e-beef-75fb91de581e" />
+  <Project Path="ex6/ex6.csproj" Id="18d3f512-5c57-4ce7-b2ac-fdd5f7b45285" />
+  <Project Path="ex7/ex7.csproj" Id="83152ab1-3860-4e70-9938-c920860fbd62" />
+  <Project Path="ex8/ex8.csproj" Id="9be11c7d-0d8f-4d52-84ef-3c0415bd9eae" />
+  <Project Path="ex9/ex9.csproj" Id="0ff1eaed-c3f8-4b92-bded-6ae7d8ddbf4c" />
+</Solution>
