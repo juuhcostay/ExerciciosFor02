@@ -17,6 +17,6 @@ for (int i = 1; i <= 10; i++)
 
 media = soma / 10;
 
-Console.WriteLine("\nMedia dos diametros:" + media + "mm");
+Console.WriteLine("Media dos diametros:" + media + "mm");
 Console.WriteLine("Quantidade de peças fora do padrao:" +
 defeituosas);

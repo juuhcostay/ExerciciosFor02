@@ -28,7 +28,7 @@ for (int hora = 2; hora <= 8; hora++)
 }
 
 
-Console.WriteLine("\nResultado do monitoramento:");
+Console.WriteLine("Resultado do monitoramento:");
 Console.WriteLine($"Maior temperatura registrada: {maiorTemperatura} °C");
 Console.WriteLine($"Menor temperatura registrada: {menorTemperatura} °C");
 

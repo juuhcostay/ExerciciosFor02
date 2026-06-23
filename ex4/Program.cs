@@ -24,6 +24,6 @@ for (int i = 0; i < totalVendas; i++)
 }
 
 
-Console.WriteLine("\nFechamento de Caixa");
-Console.WriteLine($"Faturamento total: R$ {faturamentoTotal:F2}");
-Console.WriteLine($"Maior venda do dia: R$ {maiorVenda:F2}");
+Console.WriteLine("Fechamento de Caixa");
+Console.WriteLine($"Faturamento total: R$ {faturamentoTotal}");
+Console.WriteLine($"Maior venda do dia: R$ {maiorVenda}");

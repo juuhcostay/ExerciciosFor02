@@ -25,9 +25,9 @@ for (int i = 1; i <= 10; i++)
 
 totalFinal = totalBruto - totalDescontos;
 
-Console.WriteLine("\n===== RESUMO DA COMPRA =====");
-Console.WriteLine($"Total bruto: R$ {totalBruto:F2}");
-Console.WriteLine($"Total de descontos: R$ {totalDescontos:F2}");
-Console.WriteLine($"Total final da nota: R$ {totalFinal:F2}");
+Console.WriteLine("RESUMO DA COMPRA");
+Console.WriteLine($"Total bruto: R$ {totalBruto}");
+Console.WriteLine($"Total de descontos: R$ {totalDescontos}");
+Console.WriteLine($"Total final da nota: R$ {totalFinal}");
 
 

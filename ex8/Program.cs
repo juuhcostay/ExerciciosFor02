@@ -20,4 +20,4 @@ for (int i = 1; i <= 8; i++)
     }
 }
 
-Console.WriteLine("\nVerificação de estoque concluída.");
+Console.WriteLine("Verificação de estoque concluída.");
