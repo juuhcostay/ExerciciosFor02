@@ -11,7 +11,7 @@ for (int i = 1; i <= 8; i++)
     nomeProduto = Console.ReadLine();
 
     Console.Write("Quantidade em estoque: ");
-    quantidade = Convert.ToInt32(Console.ReadLine());
+    quantidade = int.Parse(Console.ReadLine());
 
     
     if (quantidade < 5)

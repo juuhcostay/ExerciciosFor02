@@ -20,5 +20,4 @@ for (int i = 1; i <= 12; i++)
 porcentagem = (alunosMenores30 / 12.0) * 100;
 
 
-Console.WriteLine("Percentual de alunos com menos de 30 anos: "
-                  + porcentagem.ToString("F2") + "%");
+Console.WriteLine($"Percentual de alunos com menos de 30 anos: {porcentagem:F2}%");

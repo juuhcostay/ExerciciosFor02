@@ -5,7 +5,7 @@ int defeituosas = 0;
 for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine("Digite o diametro da peça" + i + "(mm):");
-    double diametro = Convert.ToDouble(Console.ReadLine());
+    double diametro = double.Parse(Console.ReadLine());
 
     soma += diametro;
 
